@@ -1,0 +1,33 @@
+table{
+     border: 1PX solid black;
+     /* border-collapse: collapse; */
+     border-collapse: separate;
+     border-spacing: 10PX;
+     /* background-color: #aaaaaa; */
+     background-image: url(https://www.decoracion.ru/sites/default/files/styles/290x290/public/oboi/milassa/img/oboi-1310347.jpg?itok=25sm6HO3);
+     empty-cells: hide;
+}
+
+tr{
+    /* background-color: #cccccc; */
+    /* background-image: url(https://st2.depositphotos.com/2116635/5275/v/450/depositphotos_52755393-stock-illustration-seamless-vintage-wallpaper-pattern.jpg); */
+}
+
+th{
+    border: 1px solid red;
+    background-image: url(https://manders.ru/upload/medialibrary/46d/46d5c5659a173bd72a91fa6443f6cb17.jpg);
+}
+
+td{ 
+    border: 1PX solid blue;
+    background-image: url(https://pw.artfile.me/wallpaper/30-08-2018/627x470/vektor-cvety-vektornaya-grafika-cvety--f-1382639.jpg);
+}
+
+#uniq{
+    width: 30vw;
+    height: 20vh;
+    text-align: right;
+    vertical-align: bottom;
+    /* background-color: #eeeeee; */
+    background-image: url(https://gidfon.com/prev/19786.jpg);
+}
